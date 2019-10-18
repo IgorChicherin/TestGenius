@@ -2,7 +2,7 @@ django
 certifi==2018.1.18
 chardet==3.0.4
 click==6.7
-Django==2.0.4
+Django==2.0.12
 genius-cli==1.0.8
 idna==2.6
 Jinja2==2.10
